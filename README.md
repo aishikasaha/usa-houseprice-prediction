@@ -1,4 +1,3 @@
 # usa-houseprice-prediction
 
-After creating the model, this is my prediction:<br>
-<img src="file:///home/aishika/Desktop/ml/housing/pair.png">
+This project helps in predicting housing prices for regions in the USA. A model is created and it returns back an estimate of what the house would sell for. 
